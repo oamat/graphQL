@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "62ee19c0e569452eb40cc89c"
+  },
+  "name": "Oriol",
+  "email": "oamatf@gmail.com",
+  "password": "$2b$10$8PhsJeBKKbrWQ2gbb7ZAjOwqQcuBxEY3KTLuhgR5LicXRWap0wTtq",
+  "date": "2022",
+  "__v": 0
+}]
