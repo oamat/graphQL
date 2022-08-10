@@ -32,6 +32,10 @@ https://www.mongodb.com/products/compass
 
 
 
+START SEVICE:
+http://localhost:3131/graphql for request
+http://localhost:3131/graphiql for Check & review SCHEMA (GRAPHIQL)
+
 GRAPHIQL
 GraphiQL is an in-browser tool for writing, validating, and testing GraphQL queries.
 

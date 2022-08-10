@@ -42,5 +42,7 @@ app.use('/graphiql', graphqlHTTP((req)=>{
   }
 }))
 app.listen(3131, ()=>{
-    console.log('Escuchando del puerto: 3131')
+    console.log('Escuchando del puerto: 3131');
+    console.log('http://localhost:3131/graphql for request');
+    console.log('http://localhost:3131/graphiql for Check & review SCHEMA (GRAPHIQL)');
 })
