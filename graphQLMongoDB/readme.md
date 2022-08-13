@@ -4,7 +4,7 @@ This is a little project using graphQL in nodejs.
 A graphQL API (query language for API) and a runtime for fulfilling those queries with existing data in MongoDB. GraphQL provides a complete and understandable description of the data in the API, gives the power to ask for exactly what they need and nothing more.
 
 ## SOFTWARE USED
-We use this libs:
+We use this soft:
 - Nodejs v16: JavaScript runtime built on Chrome's V8 JavaScript engine.
 - Npm: Node package manager
 - Git: Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
